@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Server: VK
+Date: Sun, 09 Feb 2020 20:04:58 GMT
+Content-Type: text/html; charset=windows-1251
+Content-Length: 12188
+Connection: keep-alive
+X-Powered-By: PHP/3.23035
+Set-Cookie: remixlang=0; expires=Thu, 04 Feb 2021 00:52:45 GMT; path=/; domain=.vk.com; secure; SameSite=None
+Set-Cookie: remixlhk=1ea337848f73fa3630; expires=Sun, 07 Feb 2021 13:07:32 GMT; path=/; domain=.vk.com; secure; SameSite=None
+Set-Cookie: remixstid=1371120029_0d0ffc19786c0f4def; expires=Fri, 19 Feb 2021 03:05:59 GMT; path=/; domain=.vk.com; secure; SameSite=None
+Set-Cookie: remixlhk=c61b1e9a85e184a81b; expires=Wed, 17 Feb 2021 22:51:02 GMT; path=/; domain=.vk.com; secure; SameSite=None
+Cache-control: no-store
+Content-Security-Policy: default-src * data: blob: about:;script-src 'self' *.vk.com static.vk.me *.mail.ru s.ytimg.com platform.twitter.com cdn.syndication.twimg.com www.instagram.com connect.facebook.net telegram.org *.yandex.ru *.google-analytics.com *.youtube.com maps.googleapis.com translate.googleapis.com *.google.com google.com *.vkpartner.ru *.moatads.com *.adlooxtracking.com *.gstatic.com *.google.ru securepubads.g.doubleclick.net cdn.ampproject.org www.googletagmanager.com googletagmanager.com *.vk-cdn.net *.hit.gemius.pl yastatic.net 'unsafe-inline' 'unsafe-eval' blob:;style-src vk.com *.vk.com static.vk.me ton.twimg.com tagmanager.google.com platform.twitter.com *.googleapis.com 'self' 'unsafe-inline'
+X-Frame-Options: deny
+Content-Encoding: gzip
+X-Frontend: front609305
+Strict-Transport-Security: max-age=15768000
+Access-Control-Expose-Headers: X-Frontend
+

@@ -1,0 +1,15 @@
+[t13]
+FileName1=t13.html
+URL1=https://vk.com/al_im.php
+Total=3
+RequestHeaderFile=t13_RequestHeader.txt
+RequestBodyFile=t13_RequestBody.txt
+ResponseHeaderFile=t13_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_13.xml
+FileName2=t13_stickers.5f918cd6033976c9de76.html
+URL2=https://vk.com/js/cmodules/web/stickers.5f918cd6033976c9de76.js?2249ce571119f6bd08729d6d185b321a
+FileName3=t13_chats.png
+URL3=https://vk.com/images/icons/chats.png?14
+[ProtocolInfo]
+ProtocolId=QTWeb

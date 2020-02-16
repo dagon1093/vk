@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Server: VK
+Date: Sun, 09 Feb 2020 20:13:34 GMT
+Content-Type: text/html; charset=windows-1251
+Content-Length: 193
+Connection: keep-alive
+Cache-control: no-store
+Content-Encoding: gzip
+Vary: Accept-Encoding
+X-Frontend: front632908
+Strict-Transport-Security: max-age=15768000
+Access-Control-Expose-Headers: X-Frontend
+

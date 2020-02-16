@@ -1,0 +1,17 @@
+[t70]
+FileName1=t70.html
+URL1=https://vk.com/al_im.php
+Total=4
+RequestHeaderFile=t70_RequestHeader.txt
+RequestBodyFile=t70_RequestBody.txt
+ResponseHeaderFile=t70_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_70.xml
+FileName2=t70_bb1.mp3.html
+URL2=https://vk.com/mp3/bb1.mp3?1
+FileName3=t70_bb2.mp3.html
+URL3=https://vk.com/mp3/bb2.mp3?1
+FileName4=t70_bb3.mp3.html
+URL4=https://vk.com/mp3/bb3.mp3?1
+[ProtocolInfo]
+ProtocolId=QTWeb

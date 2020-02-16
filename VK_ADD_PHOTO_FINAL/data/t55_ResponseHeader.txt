@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Server: VK
+Date: Sun, 09 Feb 2020 20:06:21 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 70
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-store
+X-Frontend: front633912
+Access-Control-Allow-Methods: GET
+Access-Control-Allow-Origin: https://vk.com
+Access-Control-Expose-Headers: X-Frontend
+Strict-Transport-Security: max-age=15768000
+

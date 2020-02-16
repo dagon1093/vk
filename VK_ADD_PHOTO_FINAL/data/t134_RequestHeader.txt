@@ -1,0 +1,11 @@
+GET /nim8140717?act=a_check&key=e6ad5a54f2b5a14d2c49a03e323b2ea97e5048c1&mode=202&ts=1873032868&version=9&wait=25 HTTP/1.1
+Host: im.vk.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Origin: https://vk.com
+DNT: 1
+Connection: keep-alive
+Referer: https://vk.com/
+

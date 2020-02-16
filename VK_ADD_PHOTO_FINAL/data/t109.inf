@@ -1,0 +1,15 @@
+[t109]
+FileName1=t109.html
+URL1=https://queuev4.vk.com/im717
+Total=3
+RequestHeaderFile=t109_RequestHeader.txt
+RequestBodyFile=t109_RequestBody.txt
+ResponseHeaderFile=t109_ResponseHeader.txt
+ContentType=text/javascript
+SnapshotXmlFile=snapshot_109.xml
+FileName2=t109_photos.11a5f47cdcd6a885aa4c.html
+URL2=https://vk.com/js/cmodules/web/photos.11a5f47cdcd6a885aa4c.js?b330d5070b29d6a586df2267a8f13f4e
+FileName3=t109_photos.css
+URL3=https://vk.com/css/al/photos.css?31974826751
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,15 @@
+[t12]
+FileName1=t12.html
+URL1=https://vk.com/ads_rotate.php?act=al_update_ad
+Total=3
+RequestHeaderFile=t12_RequestHeader.txt
+RequestBodyFile=t12_RequestBody.txt
+ResponseHeaderFile=t12_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_12.xml
+FileName2=t12_aes_light.css
+URL2=https://vk.com/css/al/aes_light.css?35634885009
+FileName3=t12_attach_icons.png
+URL3=https://vk.com/images/attach_icons.png?4
+[ProtocolInfo]
+ProtocolId=QTWeb

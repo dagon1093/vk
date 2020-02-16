@@ -1,0 +1,11 @@
+[t126]
+FileName1=t126.htm
+URL1=https://vk.com/albums8140717
+Total=1
+RequestHeaderFile=t126_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t126_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_126.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

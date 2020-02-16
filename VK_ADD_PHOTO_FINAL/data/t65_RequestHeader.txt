@@ -1,0 +1,17 @@
+POST /im717 HTTP/1.1
+Host: queuev4.vk.com
+Connection: keep-alive
+Content-Length: 188
+Sec-Fetch-Dest: empty
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://queuev4.vk.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Referer: https://queuev4.vk.com/q_frame.php?7
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: remixlang=0; remixstid=1371120029_0d0ffc19786c0f4def; remixflash=0.0.0; remixscreen_depth=24; remixscreen_orient=1; remixgp=94945c2be5d3b5abfaaabe4ca8573518; remixdt=0; tmr_lvid=5abeb545114a4cbc1e69f2c347a461c3; tmr_lvidTS=1581278698361; remixsid=9d0d92b0535ebed56fb51a858930798eec716814c6a70feca4b9cde9f1822; remixusid=NDI1OWE2OGMwYjQ1ZGRkYTAwYjNhYTU3; remixseenads=1; remixua=29%7C-1%7C162%7C-47545054; tmr_reqNum=3
+

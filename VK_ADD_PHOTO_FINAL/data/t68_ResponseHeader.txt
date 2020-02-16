@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Server: VK
+Date: Sun, 09 Feb 2020 20:09:50 GMT
+Content-Type: text/html; charset=windows-1251
+Content-Length: 12182
+Connection: keep-alive
+X-Powered-By: PHP/3.23035
+Set-Cookie: remixlang=0; expires=Mon, 01 Feb 2021 20:52:18 GMT; path=/; domain=.vk.com
+Set-Cookie: remixlhk=8fb96bd6adeb22e885; expires=Thu, 18 Feb 2021 14:39:15 GMT; path=/; domain=.vk.com; secure
+Set-Cookie: remixstid=1986785229_5572d207f5500bc463; expires=Sat, 06 Feb 2021 18:16:50 GMT; path=/; domain=.vk.com; secure
+Set-Cookie: remixlhk=cb3fc487ee13a1d8ce; expires=Tue, 16 Feb 2021 15:11:27 GMT; path=/; domain=.vk.com; secure
+Cache-control: no-store
+Content-Security-Policy: default-src * data: blob: about:;script-src 'self' *.vk.com static.vk.me *.mail.ru s.ytimg.com platform.twitter.com cdn.syndication.twimg.com www.instagram.com connect.facebook.net telegram.org *.yandex.ru *.google-analytics.com *.youtube.com maps.googleapis.com translate.googleapis.com *.google.com google.com *.vkpartner.ru *.moatads.com *.adlooxtracking.com *.gstatic.com *.google.ru securepubads.g.doubleclick.net cdn.ampproject.org www.googletagmanager.com googletagmanager.com *.vk-cdn.net *.hit.gemius.pl yastatic.net 'unsafe-inline' 'unsafe-eval' blob:;style-src vk.com *.vk.com static.vk.me ton.twimg.com tagmanager.google.com platform.twitter.com *.googleapis.com 'self' 'unsafe-inline';report-uri /csp
+X-Frame-Options: deny
+Content-Encoding: gzip
+X-Frontend: front605111
+Strict-Transport-Security: max-age=15768000
+Access-Control-Expose-Headers: X-Frontend
+

@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: VK
+Date: Sun, 09 Feb 2020 20:12:48 GMT
+Content-Type: text/html; charset=windows-1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/3.23035
+Pragma: public
+Cache-Control: maxage=345600
+Expires: Thu, 13 Feb 2020 20:12:48 GMT
+X-Frontend: front512011
+Strict-Transport-Security: max-age=15768000
+Access-Control-Expose-Headers: X-Frontend
+Content-Encoding: gzip
+

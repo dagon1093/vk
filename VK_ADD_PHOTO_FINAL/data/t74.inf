@@ -1,0 +1,11 @@
+[t74]
+SnapshotXmlFile=snapshot_74.xml
+FileName1=t74.mp4.html
+URL1=https://vk.com/images/blank.mp4
+Total=2
+RequestHeaderFile=t74_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t74_ResponseHeader.txt
+ContentType=video/mp4
+FileName2=t74_mrtarg.css
+URL2=https://vk.com/css/al/mrtarg.css?3142794554

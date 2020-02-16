@@ -1,0 +1,182 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: vk.com",
+                "infFile": "t3.inf",
+                "time": 1581568929291
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Submit Data: login.vk.com",
+                "infFile": "t5.inf",
+                "time": 1581568929529
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Submit Data: al_im.php",
+                "infFile": "t6.inf",
+                "time": 1581568929591
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: vk.com_2",
+                "infFile": "t8.inf",
+                "time": 1581568930862
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Submit Data: al_feed.php",
+                "infFile": "t9.inf",
+                "time": 1581568930959
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Submit Data: al_im.php_2",
+                "infFile": "t10.inf",
+                "time": 1581568931041
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Submit Data: al_im.php_3",
+                "infFile": "t11.inf",
+                "time": 1581568931101
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Submit Data: al_im.php_4",
+                "infFile": "t12.inf",
+                "time": 1581568931187
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Submit Data: notifier.php",
+                "infFile": "t13.inf",
+                "time": 1581568931252
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Url: al_photos.php",
+                "infFile": "t17.inf",
+                "time": 1581568931386
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Submit Data: al_video.php_14",
+                "infFile": "t18.inf",
+                "time": 1581568931457
+            },
+            {
+                "stepId": "STEP12",
+                "stepName": "Submit Data: al_video.php_15",
+                "infFile": "t19.inf",
+                "time": 1581568931518
+            },
+            {
+                "stepId": "STEP13",
+                "stepName": "Submit Data: ads_rotate.php_2",
+                "infFile": "t20.inf",
+                "time": 1581568931638
+            },
+            {
+                "stepId": "STEP14",
+                "stepName": "Submit Data: upload_fails.php",
+                "infFile": "t25.inf",
+                "time": 1581568931710
+            },
+            {
+                "stepId": "STEP15",
+                "stepName": "Submit Data: upload.php",
+                "infFile": "t26.inf",
+                "time": 1581568931811
+            },
+            {
+                "stepId": "STEP16",
+                "stepName": "Submit Data: upload_fails.php_2",
+                "infFile": "t27.inf",
+                "time": 1581568931877
+            },
+            {
+                "stepId": "STEP17",
+                "stepName": "Submit Data: al_photos.php_2",
+                "infFile": "t28.inf",
+                "time": 1581568931938
+            },
+            {
+                "stepId": "STEP18",
+                "stepName": "Url: albums8140717",
+                "infFile": "t29.inf",
+                "time": 1581568932225
+            },
+            {
+                "stepId": "STEP19",
+                "stepName": "Custom Request: upload.php_2",
+                "infFile": "t30.inf",
+                "time": 1581568932298
+            },
+            {
+                "stepId": "STEP20",
+                "stepName": "Submit Data: upload.php_3",
+                "infFile": "t33.inf",
+                "time": 1581568934615
+            },
+            {
+                "stepId": "STEP21",
+                "stepName": "Submit Data: upload_fails.php_3",
+                "infFile": "t34.inf",
+                "time": 1581568934672
+            },
+            {
+                "stepId": "STEP22",
+                "stepName": "Submit Data: al_photos.php_3",
+                "infFile": "t35.inf",
+                "time": 1581568934748
+            },
+            {
+                "stepId": "STEP23",
+                "stepName": "Url: login.vk.com_2",
+                "infFile": "t36.inf",
+                "time": 1581568934923
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "0_homepage",
+                "rawStartTime": 1581568928406,
+                "rawEndTime": 1581568929294,
+                "thinkTime": 0.0,
+                "wastedTime": 0.2553725242614746
+            },
+            {
+                "transactionName": "1_login",
+                "rawStartTime": 1581568929295,
+                "rawEndTime": 1581568931252,
+                "thinkTime": 0.0,
+                "wastedTime": 0.23175644874572755
+            },
+            {
+                "transactionName": "2_goto_album",
+                "rawStartTime": 1581568931253,
+                "rawEndTime": 1581568932226,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0837717056274414
+            },
+            {
+                "transactionName": "3_add_photo",
+                "rawStartTime": 1581568932227,
+                "rawEndTime": 1581568934750,
+                "thinkTime": 0.0,
+                "wastedTime": 0.021181106567382814
+            },
+            {
+                "transactionName": "3_logout",
+                "rawStartTime": 1581568934751,
+                "rawEndTime": 1581568934924,
+                "thinkTime": 0.0,
+                "wastedTime": 0.009479522705078125
+            }
+        ]
+    }
+]

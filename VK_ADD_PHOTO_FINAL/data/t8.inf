@@ -1,0 +1,17 @@
+[t8]
+FileName1=t8.html
+URL1=https://vk.com/al_feed.php?queue
+Total=4
+RequestHeaderFile=t8_RequestHeader.txt
+RequestBodyFile=t8_RequestBody.txt
+ResponseHeaderFile=t8_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_8.xml
+FileName2=t8_menu_arrow.png
+URL2=https://vk.com/images/icons/menu_arrow.png
+FileName3=t8_f09f9189f09f8fbb.png
+URL3=https://vk.com/emoji/e/f09f9189f09f8fbb.png
+FileName4=t8_f09f87acf09f87a7.png
+URL4=https://vk.com/emoji/e/f09f87acf09f87a7.png
+[ProtocolInfo]
+ProtocolId=QTWeb

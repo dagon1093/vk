@@ -1,0 +1,12 @@
+OPTIONS /c206724/upload.php?act=do_add&aid=-7&ajx=1&gid=0&hash=1ea993794e73d14e82bdd3ad912f5f15&jpeg_quality=89&keep_meta=1&mid=8140717&oid=8140717&rhash=e220eaa3866f65b3b31f058b031fe4f8 HTTP/1.1
+Host: pu.vk.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Access-Control-Request-Method: POST
+Referer: https://vk.com/
+Origin: https://vk.com
+DNT: 1
+Connection: keep-alive
+

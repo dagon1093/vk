@@ -1,0 +1,17 @@
+[t112]
+FileName1=t112.html
+URL1=https://vk.com/al_video.php?act=watch_stat
+Total=4
+RequestHeaderFile=t112_RequestHeader.txt
+RequestBodyFile=t112_RequestBody.txt
+ResponseHeaderFile=t112_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_112.xml
+FileName2=t112_album_top_shadow.png
+URL2=https://vk.com/images/album_top_shadow.png
+FileName3=t112_photo_edit_actions.png
+URL3=https://vk.com/images/icons/photo_edit_actions.png
+FileName4=t112_dev_toplink.png
+URL4=https://vk.com/images/dev_toplink.png
+[ProtocolInfo]
+ProtocolId=QTWeb

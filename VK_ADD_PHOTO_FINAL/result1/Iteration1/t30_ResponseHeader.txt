@@ -1,0 +1,15 @@
+HTTP/2.0 200
+Status: 200
+server: VK
+date: Thu, 13 Feb 2020 04:42:14 GMT
+content-type: text/html; charset=windows-1251
+content-length: 20
+cache-control: no-store
+access-control-allow-origin: https://vk.com
+access-control-allow-headers: X-Requested-With
+content-encoding: gzip
+vary: Accept-Encoding
+x-frontend: front213001
+strict-transport-security: max-age=15768000
+access-control-expose-headers: X-Frontend
+

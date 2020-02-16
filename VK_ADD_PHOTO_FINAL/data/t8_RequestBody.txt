@@ -1,0 +1,2 @@
+"act=a_get_key&ads_section=false&ads_showed=&al=1&al_ad=1&need_ignore=1&only_update=0&section=n"
+"ews&subsection=top"

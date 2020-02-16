@@ -1,0 +1,19 @@
+POST /?act=login HTTP/1.1
+Host: login.vk.com
+Connection: keep-alive
+Content-Length: 194
+Cache-Control: max-age=0
+Origin: https://vk.com
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36
+Sec-Fetch-Dest: iframe
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Referer: https://vk.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: remixlang=0; remixstid=1371120029_0d0ffc19786c0f4def; remixlhk=c61b1e9a85e184a81b; remixflash=0.0.0; remixscreen_depth=24; remixscreen_orient=1; remixgp=94945c2be5d3b5abfaaabe4ca8573518; remixdt=0; remixsts=%7B%22data%22%3A%5B%5B1581278698%2C%22counters_check%22%2C1%5D%5D%2C%22uniqueId%22%3A666311952%7D; tmr_lvid=5abeb545114a4cbc1e69f2c347a461c3; tmr_lvidTS=1581278698361; tmr_reqNum=1; remixjsp=%7B%22id%22%3A%22k6fgif32.icc%22%2C%22loc%22%3A%22https%3A//vk.com/%22%2C%22events%22%3A%5B%5B%22TTFCP%22%2C3345%2Cnull%2C%224g%22%2C%2223035%22%5D%2C%5B%22domComplete%22%2C4292%2Cnull%2C%224g%22%2C%2223035%22%5D%2C%5B%22domContentLoadedEventEnd%22%2C3381%2Cnull%2C%224g%22%2C%2223035%22%5D%2C%5B%22loadEventEnd%22%2C4295%2Cnull%2C%224g%22%2C%2223035%22%5D%2C%5B%22TTI%22%2C3733%2Cnull%2C%224g%22%2C%2223035%22%5D%5D%7D
+

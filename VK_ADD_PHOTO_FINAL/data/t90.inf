@@ -1,0 +1,13 @@
+[t90]
+FileName1=t90.html
+URL1=https://queuev4.vk.com/im717
+Total=2
+RequestHeaderFile=t90_RequestHeader.txt
+RequestBodyFile=t90_RequestBody.txt
+ResponseHeaderFile=t90_ResponseHeader.txt
+ContentType=text/javascript
+SnapshotXmlFile=snapshot_90.xml
+FileName2=t90_attach_icons.png
+URL2=https://vk.com/images/attach_icons.png?4
+[ProtocolInfo]
+ProtocolId=QTWeb

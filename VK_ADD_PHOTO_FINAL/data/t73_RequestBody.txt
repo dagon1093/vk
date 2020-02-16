@@ -1,0 +1,1 @@
+"act=get_promoted_stickers&al=1"

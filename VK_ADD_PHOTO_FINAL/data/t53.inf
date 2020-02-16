@@ -1,0 +1,11 @@
+[t53]
+FileName1=t53_nim8140717.html
+URL1=https://im.vk.com/nim8140717?act=a_check&key=567a02549fb166185827975d530f92a9d96a23d0&mode=202&ts=1873032784&version=9&wait=25
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_53.xml
+RequestHeaderFile=t53_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t53_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

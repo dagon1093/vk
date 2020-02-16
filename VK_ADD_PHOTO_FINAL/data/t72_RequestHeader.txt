@@ -1,0 +1,15 @@
+POST /al_feed.php?queue HTTP/1.1
+Host: vk.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/x-www-form-urlencoded
+X-Requested-With: XMLHttpRequest
+Content-Length: 112
+Origin: https://vk.com
+DNT: 1
+Connection: keep-alive
+Referer: https://vk.com/feed
+Cookie: remixlang=0; remixstid=1986785229_5572d207f5500bc463; remixflash=32.0.0; remixscreen_depth=24; remixscreen_orient=1; remixgp=1bcb9c2d669166d68dccbbfdff75f72f; remixdt=0; remixsid=19d3d371c45e76c7d64931cac73ceb2e7c601b751d8a09cdd10b45063880c; remixusid=ZTM4MWM0YmJhYTgzZWQ5OTc4MmI4NDBi; remixsts=%7B%22data%22%3A%5B%5B1581279161%2C%22feed_switch%22%2C0%2C%22top_news%22%2C3%5D%2C%5B1581279162%2C%22time_spent%22%2C%7B%22feed%22%3A%7B%22full%22%3A0%2C%22last%22%3A1581279161467%2C%22options%22%3A%7B%22news_top%22%3A%7B%22full%22%3A0%2C%22last%22%3A1581279161467%7D%7D%7D%7D%5D%5D%2C%22uniqueId%22%3A481950965%7D
+

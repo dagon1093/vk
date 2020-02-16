@@ -1,0 +1,13 @@
+[t72]
+FileName1=t72.html
+URL1=https://vk.com/al_feed.php?queue
+Total=2
+RequestHeaderFile=t72_RequestHeader.txt
+RequestBodyFile=t72_RequestBody.txt
+ResponseHeaderFile=t72_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_72.xml
+FileName2=t72_wide_dd.html
+URL2=https://vk.com/js/al/wide_dd.js?3516210135
+[ProtocolInfo]
+ProtocolId=QTWeb

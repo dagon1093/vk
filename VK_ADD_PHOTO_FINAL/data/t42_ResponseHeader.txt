@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Server: VK
+Date: Sun, 09 Feb 2020 20:06:01 GMT
+Content-Type: text/javascript; charset=UTF-8
+Content-Length: 6430
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-store
+X-Frontend: front611403
+Strict-Transport-Security: max-age=15768000
+Access-Control-Expose-Headers: X-Frontend
+

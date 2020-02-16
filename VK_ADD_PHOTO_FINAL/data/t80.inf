@@ -1,0 +1,13 @@
+[t80]
+FileName1=t80.htm
+URL1=https://queuev4.vk.com/q_frame.php?7
+Total=2
+RequestHeaderFile=t80_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t80_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_80.xml
+FileName2=t80_chats.png
+URL2=https://vk.com/images/icons/chats.png?14
+[ProtocolInfo]
+ProtocolId=QTWeb

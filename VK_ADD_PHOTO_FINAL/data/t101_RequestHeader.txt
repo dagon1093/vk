@@ -1,0 +1,15 @@
+POST /al_video.php?act=track_player_events HTTP/1.1
+Host: vk.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/x-www-form-urlencoded
+X-Requested-With: XMLHttpRequest
+Content-Length: 384
+Origin: https://vk.com
+DNT: 1
+Connection: keep-alive
+Referer: https://vk.com/feed
+Cookie: remixlang=0; remixstid=1986785229_5572d207f5500bc463; remixflash=32.0.0; remixscreen_depth=24; remixscreen_orient=1; remixgp=1bcb9c2d669166d68dccbbfdff75f72f; remixdt=0; remixsid=19d3d371c45e76c7d64931cac73ceb2e7c601b751d8a09cdd10b45063880c; remixusid=ZTM4MWM0YmJhYTgzZWQ5OTc4MmI4NDBi; remixseenads=1
+

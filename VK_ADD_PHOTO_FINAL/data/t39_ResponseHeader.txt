@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Server: VK
+Date: Sun, 09 Feb 2020 20:05:58 GMT
+Content-Type: application/json; charset=windows-1251
+Content-Length: 77
+Connection: keep-alive
+X-Powered-By: PHP/3.23035
+Cache-control: no-store
+Content-Encoding: gzip
+X-Frontend: front609305
+Strict-Transport-Security: max-age=15768000
+Access-Control-Expose-Headers: X-Frontend
+

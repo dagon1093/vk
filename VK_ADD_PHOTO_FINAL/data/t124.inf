@@ -1,0 +1,17 @@
+[t124]
+FileName1=t124.html
+URL1=https://queuev4.vk.com/im717
+Total=4
+RequestHeaderFile=t124_RequestHeader.txt
+RequestBodyFile=t124_RequestBody.txt
+ResponseHeaderFile=t124_ResponseHeader.txt
+ContentType=text/javascript
+SnapshotXmlFile=snapshot_124.xml
+FileName2=t124_small_progress_bkg.png
+URL2=https://vk.com/images/small_progress_bkg.png
+FileName3=t124_breadcrumbs.png
+URL3=https://vk.com/images/icons/breadcrumbs.png
+FileName4=t124_round_spinner.png
+URL4=https://vk.com/images/icons/round_spinner.png
+[ProtocolInfo]
+ProtocolId=QTWeb

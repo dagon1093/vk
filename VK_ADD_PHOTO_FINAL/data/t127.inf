@@ -1,0 +1,11 @@
+[t127]
+FileName1=t127.htm
+URL1=https://pu.vk.com/c206724/upload.php?act=do_add&aid=-7&ajx=1&gid=0&hash=1ea993794e73d14e82bdd3ad912f5f15&jpeg_quality=89&keep_meta=1&mid=8140717&oid=8140717&rhash=e220eaa3866f65b3b31f058b031fe4f8
+Total=1
+RequestHeaderFile=t127_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t127_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_127.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

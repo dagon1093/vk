@@ -1,0 +1,15 @@
+[t35]
+FileName1=t35_nim8140717.html
+URL1=https://im.vk.com/nim8140717?act=a_check&key=567a02549fb166185827975d530f92a9d96a23d0&mode=202&ts=1873032781&version=9&wait=25
+Total=3
+ContentType=application/json
+SnapshotXmlFile=snapshot_35.xml
+RequestHeaderFile=t35_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t35_ResponseHeader.txt
+FileName2=t35_photos.11a5f47cdcd6a885aa4c.html
+URL2=https://vk.com/js/cmodules/web/photos.11a5f47cdcd6a885aa4c.js?b330d5070b29d6a586df2267a8f13f4e
+FileName3=t35_photos.css
+URL3=https://vk.com/css/al/photos.css?31974826751
+[ProtocolInfo]
+ProtocolId=QTWeb

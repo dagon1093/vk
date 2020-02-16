@@ -1,0 +1,15 @@
+[t81]
+FileName1=t81.html
+URL1=https://vk.com/al_im.php
+Total=3
+RequestHeaderFile=t81_RequestHeader.txt
+RequestBodyFile=t81_RequestBody.txt
+ResponseHeaderFile=t81_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_81.xml
+FileName2=t81_f09f87acf09f87a7.png
+URL2=https://vk.com/emoji/e/f09f87acf09f87a7.png
+FileName3=t81_podcast_icon.png
+URL3=https://vk.com/images/video/podcast_icon.png
+[ProtocolInfo]
+ProtocolId=QTWeb

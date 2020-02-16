@@ -1,0 +1,17 @@
+[t2]
+FileName1=t2.htm
+URL1=https://vk.com/login.php?act=slogin&to=&s=1&__q_hash=1e493b5cfe7c13aebb1e818a310ee577
+Total=4
+RequestHeaderFile=t2_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t2_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_2.xml
+FileName2=t2_37d6fe1fee6fb6accf5867cbca2cda9c.4e530afdef35f11d2df5.html
+URL2=https://vk.com/js/cmodules/bundles/37d6fe1fee6fb6accf5867cbca2cda9c.4e530afdef35f11d2df5.js?7d2f356e98d88e1ce67d
+FileName3=t2_notifier.8b87be24e14f75030112.html
+URL3=https://vk.com/js/cmodules/web/notifier.8b87be24e14f75030112.js?e74bb06de95c167ee254ad0f4ef0f8e0
+FileName4=t2_notifier.css
+URL4=https://vk.com/css/al/notifier.css?44783172318
+[ProtocolInfo]
+ProtocolId=QTWeb
