@@ -2258,6 +2258,9 @@ createChildClass('Select', UiControl, {
 
       value = (value === undefined || value === null) ? '' : value.toString();
       text = ((text === undefined || text === null) ? '' : text.toString()) || value;
+      [8381, 8376].forEach((charCode) => {
+        text = text.replace('&#' + charCode + ';', String.fromCharCode(charCode));
+      });
 
       // use bit masks to find out required classes
       attributes = parseInt(attributes, 10);

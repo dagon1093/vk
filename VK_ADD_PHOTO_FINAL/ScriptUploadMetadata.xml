@@ -16,7 +16,13 @@
     <FileEntry Name="WebSocketBuffer.h" Filter="2" />
     <FileEntry Name="LoginPassword.dat" Filter="2" />
     <FileEntry Name="filename.dat" Filter="2" />
+    <FileEntry Name="combined_VK_ADD_PHOTO_FINAL.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
     <FileEntry Name="0000000.png" Filter="1" />
+    <FileEntry Name="138502522440.idx" Filter="1" />
+    <FileEntry Name="33089355440.idx" Filter="1" />
+    <FileEntry Name="3308935544_X1v.319.idx" Filter="1" />
+    <FileEntry Name="3308935544_yQM.331.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
@@ -36,6 +42,9 @@
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
     <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="VK_ADD_PHOTO_FINAL.c.pickle" Filter="1" />
+    <FileEntry Name="VK_ADD_PHOTO_FINAL.ci" Filter="1" />
+    <FileEntry Name="VK_ADD_PHOTO_FINAL.prm.bak" Filter="1" />
     <FileEntry Name="VK_ADD_PHOTO_TEST_5.prm.bak" Filter="1" />
     <FileEntry Name="data\" Filter="1" />
     <FileEntry Name="result1\" Filter="1" />

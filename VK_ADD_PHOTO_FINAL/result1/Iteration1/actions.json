@@ -6,176 +6,164 @@
                 "stepId": "STEP1",
                 "stepName": "Url: vk.com",
                 "infFile": "t3.inf",
-                "time": 1581568929291
+                "time": 1584286241576
             },
             {
                 "stepId": "STEP2",
                 "stepName": "Submit Data: login.vk.com",
                 "infFile": "t5.inf",
-                "time": 1581568929529
+                "time": 1584286241919
             },
             {
                 "stepId": "STEP3",
                 "stepName": "Submit Data: al_im.php",
                 "infFile": "t6.inf",
-                "time": 1581568929591
+                "time": 1584286241985
             },
             {
                 "stepId": "STEP4",
                 "stepName": "Url: vk.com_2",
                 "infFile": "t8.inf",
-                "time": 1581568930862
+                "time": 1584286244530
             },
             {
                 "stepId": "STEP5",
                 "stepName": "Submit Data: al_feed.php",
                 "infFile": "t9.inf",
-                "time": 1581568930959
+                "time": 1584286244722
             },
             {
                 "stepId": "STEP6",
                 "stepName": "Submit Data: al_im.php_2",
                 "infFile": "t10.inf",
-                "time": 1581568931041
+                "time": 1584286245015
             },
             {
                 "stepId": "STEP7",
                 "stepName": "Submit Data: al_im.php_3",
                 "infFile": "t11.inf",
-                "time": 1581568931101
+                "time": 1584286245071
             },
             {
                 "stepId": "STEP8",
                 "stepName": "Submit Data: al_im.php_4",
                 "infFile": "t12.inf",
-                "time": 1581568931187
+                "time": 1584286245271
             },
             {
                 "stepId": "STEP9",
                 "stepName": "Submit Data: notifier.php",
                 "infFile": "t13.inf",
-                "time": 1581568931252
+                "time": 1584286245327
             },
             {
                 "stepId": "STEP10",
                 "stepName": "Url: al_photos.php",
                 "infFile": "t17.inf",
-                "time": 1581568931386
+                "time": 1584286245558
             },
             {
                 "stepId": "STEP11",
-                "stepName": "Submit Data: al_video.php_14",
+                "stepName": "Submit Data: ads_rotate.php_2",
                 "infFile": "t18.inf",
-                "time": 1581568931457
+                "time": 1584286245665
             },
             {
                 "stepId": "STEP12",
-                "stepName": "Submit Data: al_video.php_15",
-                "infFile": "t19.inf",
-                "time": 1581568931518
+                "stepName": "Submit Data: upload_fails.php",
+                "infFile": "t23.inf",
+                "time": 1584286245736
             },
             {
                 "stepId": "STEP13",
-                "stepName": "Submit Data: ads_rotate.php_2",
-                "infFile": "t20.inf",
-                "time": 1581568931638
+                "stepName": "Submit Data: upload.php",
+                "infFile": "t24.inf",
+                "time": 1584286245888
             },
             {
                 "stepId": "STEP14",
-                "stepName": "Submit Data: upload_fails.php",
+                "stepName": "Submit Data: upload_fails.php_2",
                 "infFile": "t25.inf",
-                "time": 1581568931710
+                "time": 1584286245944
             },
             {
                 "stepId": "STEP15",
-                "stepName": "Submit Data: upload.php",
+                "stepName": "Submit Data: al_photos.php_2",
                 "infFile": "t26.inf",
-                "time": 1581568931811
+                "time": 1584286246000
             },
             {
                 "stepId": "STEP16",
-                "stepName": "Submit Data: upload_fails.php_2",
+                "stepName": "Url: albums8140717",
                 "infFile": "t27.inf",
-                "time": 1581568931877
+                "time": 1584286246342
             },
             {
                 "stepId": "STEP17",
-                "stepName": "Submit Data: al_photos.php_2",
+                "stepName": "Custom Request: upload.php_2",
                 "infFile": "t28.inf",
-                "time": 1581568931938
+                "time": 1584286246430
             },
             {
                 "stepId": "STEP18",
-                "stepName": "Url: albums8140717",
-                "infFile": "t29.inf",
-                "time": 1581568932225
+                "stepName": "Submit Data: upload.php_3",
+                "infFile": "t31.inf",
+                "time": 1584286249005
             },
             {
                 "stepId": "STEP19",
-                "stepName": "Custom Request: upload.php_2",
-                "infFile": "t30.inf",
-                "time": 1581568932298
+                "stepName": "Submit Data: upload_fails.php_3",
+                "infFile": "t32.inf",
+                "time": 1584286249080
             },
             {
                 "stepId": "STEP20",
-                "stepName": "Submit Data: upload.php_3",
+                "stepName": "Submit Data: al_photos.php_3",
                 "infFile": "t33.inf",
-                "time": 1581568934615
+                "time": 1584286249166
             },
             {
                 "stepId": "STEP21",
-                "stepName": "Submit Data: upload_fails.php_3",
-                "infFile": "t34.inf",
-                "time": 1581568934672
-            },
-            {
-                "stepId": "STEP22",
-                "stepName": "Submit Data: al_photos.php_3",
-                "infFile": "t35.inf",
-                "time": 1581568934748
-            },
-            {
-                "stepId": "STEP23",
                 "stepName": "Url: login.vk.com_2",
-                "infFile": "t36.inf",
-                "time": 1581568934923
+                "infFile": "t34.inf",
+                "time": 1584286249351
             }
         ],
         "transactions": [
             {
                 "transactionName": "0_homepage",
-                "rawStartTime": 1581568928406,
-                "rawEndTime": 1581568929294,
+                "rawStartTime": 1584286240682,
+                "rawEndTime": 1584286241579,
                 "thinkTime": 0.0,
-                "wastedTime": 0.2553725242614746
+                "wastedTime": 0.2221062183380127
             },
             {
                 "transactionName": "1_login",
-                "rawStartTime": 1581568929295,
-                "rawEndTime": 1581568931252,
+                "rawStartTime": 1584286241580,
+                "rawEndTime": 1584286245328,
                 "thinkTime": 0.0,
-                "wastedTime": 0.23175644874572755
+                "wastedTime": 0.26969337463378909
             },
             {
                 "transactionName": "2_goto_album",
-                "rawStartTime": 1581568931253,
-                "rawEndTime": 1581568932226,
+                "rawStartTime": 1584286245329,
+                "rawEndTime": 1584286246342,
                 "thinkTime": 0.0,
-                "wastedTime": 0.0837717056274414
+                "wastedTime": 0.0887596607208252
             },
             {
                 "transactionName": "3_add_photo",
-                "rawStartTime": 1581568932227,
-                "rawEndTime": 1581568934750,
+                "rawStartTime": 1584286246343,
+                "rawEndTime": 1584286249168,
                 "thinkTime": 0.0,
-                "wastedTime": 0.021181106567382814
+                "wastedTime": 0.04374074935913086
             },
             {
                 "transactionName": "3_logout",
-                "rawStartTime": 1581568934751,
-                "rawEndTime": 1581568934924,
+                "rawStartTime": 1584286249169,
+                "rawEndTime": 1584286249352,
                 "thinkTime": 0.0,
-                "wastedTime": 0.009479522705078125
+                "wastedTime": 0.009517669677734375
             }
         ]
     }

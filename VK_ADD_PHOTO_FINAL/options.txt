@@ -2,8 +2,8 @@
 -DCCI
 -D_IDA_XL
 -DWINNT
--IC:\Users\lol\Documents\VuGen\Scripts\VK_ADD_PHOTO_TEST_5
+-IC:\Users\lol\Documents\VuGen\vk\VK_ADD_PHOTO_FINAL
 -IC:\Program Files (x86)\Micro Focus\LoadRunner\include
--ec:\users\lol\documents\vugen\scripts\vk_add_photo_test_5\\logfile.log
-c:\users\lol\documents\vugen\scripts\vk_add_photo_test_5\\combined_VK_ADD_PHOTO_TEST_5.c
-c:\users\lol\documents\vugen\scripts\vk_add_photo_test_5\\pre_cci.c
+-ec:\users\lol\documents\vugen\vk\vk_add_photo_final\\logfile.log
+c:\users\lol\documents\vugen\vk\vk_add_photo_final\\combined_VK_ADD_PHOTO_FINAL.c
+c:\users\lol\documents\vugen\vk\vk_add_photo_final\\pre_cci.c

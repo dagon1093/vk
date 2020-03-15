@@ -1,11 +1,13 @@
 HTTP/2.0 200
 Status: 200
 server: VK
-date: Thu, 13 Feb 2020 04:42:13 GMT
-content-type: application/json; charset=windows-1251
-content-length: 78
-x-powered-by: PHP/3.23088
+date: Sun, 15 Mar 2020 15:30:47 GMT
+content-type: text/html; charset=windows-1251
+content-length: 30052
+x-powered-by: PHP/3.101175
 cache-control: no-store
+content-security-policy: default-src * data: blob: about:;script-src 'self' *.vk.com static.vk.me *.mail.ru s.ytimg.com platform.twitter.com cdn.syndication.twimg.com www.instagram.com connect.facebook.net telegram.org *.yandex.ru *.google-analytics.com *.youtube.com maps.googleapis.com translate.googleapis.com *.google.com google.com *.vkpartner.ru *.moatads.com *.adlooxtracking.com *.gstatic.com *.google.ru securepubads.g.doubleclick.net cdn.ampproject.org www.googletagmanager.com googletagmanager.com *.vk-cdn.net *.hit.gemius.pl yastatic.net 'unsafe-inline' 'unsafe-eval' blob:;style-src vk.com *.vk.com static.vk.me ton.twimg.com tagmanager.google.com platform.twitter.com *.googleapis.com 'self' 'unsafe-inline';report-uri /csp
+x-frame-options: deny
 content-encoding: gzip
 x-frontend: front512004
 strict-transport-security: max-age=15768000

@@ -252,9 +252,9 @@ RuleName ='hash'*/
 		"Name=al", "Value=1", ENDITEM, 
 		LAST);
 
-	
 	lr_end_transaction("1_login",LR_AUTO);
-
+	
+	
 	lr_start_transaction("2_goto_album");
 
 	web_add_header("Upgrade-Insecure-Requests", 
@@ -315,71 +315,8 @@ RuleName ='Rule_13'*/
 		"Mode=HTML",
 		LAST);
 
-	web_add_auto_header("Origin", 
-		"https://vk.com");
-
-	web_add_auto_header("X-Requested-With", 
-		"XMLHttpRequest");
-
-	web_submit_data("al_video.php_14", 
-		"Action=https://vk.com/al_video.php?act=a_view_segments", 
-		"Method=POST", 
-		"TargetFrame=", 
-		"RecContentType=application/json", 
-		"Referer=https://vk.com/feed", 
-		"Snapshot=t111.inf", 
-		"Mode=HTML", 
-		ITEMDATA, 
-		"Name=al", "Value=1", ENDITEM, 
-		"Name=hash", "Value=2c1b7c537d4935fd53", ENDITEM, 
-		"Name=module", "Value=feed", ENDITEM, 
-		"Name=oid", "Value=-137297060", ENDITEM, 
-		"Name=prev_s", "Value=1581279184|1581279196|3", ENDITEM, 
-		"Name=prev_sig", "Value=9075fbcc47280abce5", ENDITEM, 
-		"Name=s", "Value=4", ENDITEM, 
-		"Name=vid", "Value=456245778", ENDITEM, 
-		LAST);
-	web_revert_auto_header("Origin");
-
-	web_revert_auto_header("X-Requested-With");
-
-	web_submit_data("al_video.php_15", 
-		"Action=https://vk.com/al_video.php?act=watch_stat", 
-		"Method=POST", 
-		"TargetFrame=", 
-		"RecContentType=application/json", 
-		"Referer=https://vk.com/feed", 
-		"Snapshot=t112.inf", 
-		"Mode=HTML", 
-		ITEMDATA, 
-		"Name=al", "Value=1", ENDITEM, 
-		"Name=context", "Value=", ENDITEM, 
-		"Name=end_stream_reason", "Value=link_click", ENDITEM, 
-		"Name=first_frag_loaded", "Value=0.138", ENDITEM, 
-		"Name=first_level_loaded", "Value=1.349", ENDITEM, 
-		"Name=hash", "Value=1e50a6a8b304050dba", ENDITEM, 
-		"Name=hls_candy", "Value=0", ENDITEM, 
-		"Name=is_active_live", "Value=0", ENDITEM, 
-		"Name=is_autoplay", "Value=1", ENDITEM, 
-		"Name=is_hls", "Value=1", ENDITEM, 
-		"Name=is_touched", "Value=0", ENDITEM, 
-		"Name=last_pos", "Value=21.093174", ENDITEM, 
-		"Name=module", "Value=feed", ENDITEM, 
-		"Name=played", "Value=20.993174000000003", ENDITEM, 
-		"Name=played_ranges", "Value=0-2,2-21", ENDITEM, 
-		"Name=post_id", "Value=-137297060_1371652", ENDITEM, 
-		"Name=seek_durations", "Value=", ENDITEM, 
-		"Name=skip_hls", "Value=0", ENDITEM, 
-		"Name=source_link", "Value=https://vk.com/feed", ENDITEM, 
-		"Name=stalls_count", "Value=2", ENDITEM, 
-		"Name=start_quality", "Value=480", ENDITEM, 
-		"Name=start_time", "Value=1581279169", ENDITEM, 
-		"Name=started", "Value=2830", ENDITEM, 
-		"Name=state_end", "Value=inline_player", ENDITEM, 
-		"Name=state_start", "Value=inline_player", ENDITEM, 
-		"Name=video", "Value=-137297060_456245778", ENDITEM, 
-		LAST);
-
+	lr_save_timestamp("CurrentTimestamp", LAST);
+	
 	web_add_auto_header("X-Requested-With", 
 		"XMLHttpRequest");
 
@@ -392,7 +329,7 @@ RuleName ='Rule_13'*/
 		"Snapshot=t116.inf",
 		"Mode=HTML",
 		ITEMDATA,
-		"Name=ads_req_id", "Value=1581279205987", ENDITEM,
+		"Name=ads_req_id", "Value={CurrentTimestamp}", ENDITEM,
 		"Name=ads_section", "Value=photos", ENDITEM,
 		"Name=ads_showed", "Value=6_2584999c,4_232fcc17,5_7a06e4a3", ENDITEM,
 		"Name=al", "Value=1", ENDITEM,
@@ -504,7 +441,6 @@ RuleName ='Rule_13'*/
 		"Name=server", "Value={server_photo}", ENDITEM,
 		LAST);
 
-
 	web_add_header("Origin", 
 		"https://vk.com");
 
@@ -540,9 +476,10 @@ RuleName ='Rule_13'*/
 
 	lr_end_transaction("2_goto_album",LR_AUTO);
 
+	
+	
 
 	lr_start_transaction("3_add_photo");
-	
 	
 	web_add_header("Access-Control-Request-Method", 
 		"POST");
@@ -619,7 +556,6 @@ RuleName ='hash_json'*/
 		"Name=total_size", "Value=2100871", ENDITEM,
 		"Name=type", "Value=photo", ENDITEM,
 		LAST);
-
 
 	web_reg_find("Search=All","Text=Добавьте описание…",LAST);
 
